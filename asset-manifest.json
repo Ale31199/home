@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/HomeCode/static/css/main.d8ee02d5.css",
-    "main.js": "/HomeCode/static/js/main.2c379b68.js",
-    "static/js/787.1e2b66a9.chunk.js": "/HomeCode/static/js/787.1e2b66a9.chunk.js",
-    "static/media/game.png": "/HomeCode/static/media/game.c18477f9af1a5eef55b2.png",
-    "static/media/calc.png": "/HomeCode/static/media/calc.696e1376467eff5addee.png",
-    "static/media/R.png": "/HomeCode/static/media/R.6ce441b8f0f22c0552fb.png",
-    "static/media/logo.svg": "/HomeCode/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/HomeCode/index.html",
-    "main.d8ee02d5.css.map": "/HomeCode/static/css/main.d8ee02d5.css.map",
-    "main.2c379b68.js.map": "/HomeCode/static/js/main.2c379b68.js.map",
-    "787.1e2b66a9.chunk.js.map": "/HomeCode/static/js/787.1e2b66a9.chunk.js.map"
+    "main.css": "/home/static/css/main.d8ee02d5.css",
+    "main.js": "/home/static/js/main.aebd82c1.js",
+    "static/js/787.1e2b66a9.chunk.js": "/home/static/js/787.1e2b66a9.chunk.js",
+    "static/media/game.png": "/home/static/media/game.c18477f9af1a5eef55b2.png",
+    "static/media/calc.png": "/home/static/media/calc.696e1376467eff5addee.png",
+    "static/media/R.png": "/home/static/media/R.6ce441b8f0f22c0552fb.png",
+    "static/media/logo.svg": "/home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/home/index.html",
+    "main.d8ee02d5.css.map": "/home/static/css/main.d8ee02d5.css.map",
+    "main.aebd82c1.js.map": "/home/static/js/main.aebd82c1.js.map",
+    "787.1e2b66a9.chunk.js.map": "/home/static/js/787.1e2b66a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8ee02d5.css",
-    "static/js/main.2c379b68.js"
+    "static/js/main.aebd82c1.js"
   ]
 }
