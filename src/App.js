@@ -6,6 +6,8 @@ import chat from './immagini/msg.png';
 import portfolio from './immagini/R.png';
 import expand from './immagini/expand.png';
 import React, {useState} from 'react';
+import social from './immagini/social.png';
+import planets from './immagini/planets.jpg';
 
 export default function App() {
 const [tag, setTag]= useState('');
@@ -90,7 +92,13 @@ const search=(event)=>{
      <a className='link3' href=''>???</a> 
    </div>
 
-   <div className='box' style={{display: tag === '' || list.port.includes(tag) ? 'block' : 'none'}}>
+   
+
+ 
+
+  </div>
+  <div className='slidebox2'>
+   <div className='box2' style={{display: tag === '' || list.port.includes(tag) ? 'block' : 'none'}}>
      <div className='pic'>
       <img className='img' src={portfolio}></img>
      </div>
@@ -100,11 +108,23 @@ const search=(event)=>{
      </div>
      <a className='link4' href=''>???</a> 
 
-   </div>
+    </div>
 
- 
+    <div className='box2' style={{display: tag === '' || list.port.includes(tag) ? 'block' : 'none'}}>
+     <div className='pic'>
+      <img className='img' src={social}></img>
+     </div>
+     <div className='textbox'>
+      <p className='text'>Questo è Spotify, la pagina principale. Ho cercato di ricrearlo in tutto e per tutto tale e quale, cercando di addattarlo alle varie dimensione della pagina.</p>
+      
+     </div>
+     <a className='link4' href=''>???</a> 
 
-</div>
+    </div>
+
+  </div>
+
+
 </div>
 </div>
   );
